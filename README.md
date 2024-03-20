@@ -15,7 +15,7 @@
 
 
 <!-- 등급표 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=Gyulguma&show_icons=true&hide_border=true&count_private=true)](https://github.com/Gyulguma)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=Gyulguma&theme=nightowl&ount_private=true)](https://github.com/Gyulguma/github-readme-stats)-->
 <!--
 **Gyulguma/Gyulguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
