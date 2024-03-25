@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyulguma&layout=compact)
 
 <!-- 백준 티어표 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539)-->
 
 
 
