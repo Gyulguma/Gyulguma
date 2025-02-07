@@ -24,8 +24,8 @@
 |-------------|---------------|------|------|--------|-------------|
 | 📘 메타버스 플랫폼 쇼핑몰 📘 | 메타버스 내 3D 가상 패션 서비스  | 2024.09 ~ 2024.12 | BE Developer, QA | 기업연계 | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
 | 🚛 Busan.zip 🚛 | 부산 관광 또는 정착에 관심이 있는 사용자를 위한 서비스 | 2024.10 ~ 2024.10 | BE Developer, Infra | DIVE 2024(부산시 산하공사 협의체) | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
-| 🚙 INFO.M 🚙 | 학교 정보 알리미 서비스 | 2024.07 ~ 2024.08 | BE Developer, Infra | 개인 프로젝트(5인) | [GitHub](https://github.com/MJU-Application/BE/branches/all) |
-| ☔️ 귀위비 ☔️ | 생활 용품 교체 주기 알림 서비스, 귀차니즘을 위한 비서 | 2024.06 ~ 2024.06 | BE Developer, Infra | AWS 역량강화캠프 해커톤 | [GitHub](https://github.com/hongkikii/gwibi) |
+| 🚙 INFO.M 🚙 | 학교 정보 알리미 서비스 | 2024.07 ~ 2024.08 | BE Developer, Infra | 개인 프로젝트(5인) | GitHub<!--(https://github.com/MJU-Application/BE/branches/all)--> | 
+| ☔️ 귀위비 ☔️ | 생활 용품 교체 주기 알림 서비스, 귀차니즘을 위한 비서 | 2024.06 ~ 2024.06 | BE Developer, Infra | AWS 역량강화캠프 해커톤 | GitHub<!--(https://github.com/hongkikii/gwibi)--> |
 | 🚗 리뷰캔버스 🚗 | 서드 파티 리뷰 시스템 | 2024.03 ~ 2023.06 | BE Developer | 기업연계 | [GitHub](https://github.com/review-canvas/review-canvas-back) |
 | 📝 AMS 📝 | 학원 성적 관리 시스템 | 2023.03 ~ 2023.07 | FE Developer, BE Developer | 개인 프로젝트(2인) | [GitHub](https://github.com/Gyulguma/AMS?tab=readme-ov-file) |
 | 🛰️ GetIT 🛰️ | 전자기기별 특징을 쉽게 알려주며 추천해주는 전자기기 추천 서비스 앱 | 2022.03 ~ 2022.08 | BE Developer | UMC(대학연합동아리) | [GitHub](https://github.com/UMC-GetIT/GetIT-server?tab=readme-ov-file) |
