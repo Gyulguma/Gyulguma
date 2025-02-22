@@ -69,7 +69,7 @@ Java를 위주로 공부하고 있어요<br/>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 현재 백엔드 분야에 집중하며 관련 기술들을 배우고 있어요 💡<br/>
-자주 사용하는 프레임워크로는 Spring Boot를 사용해요 🔧<br/>
+자주 사용하는 프레임워크로는 SpringBoot를 사용해요 🔧<br/>
 
 ## OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
