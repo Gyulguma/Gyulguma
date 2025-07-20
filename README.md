@@ -2,21 +2,8 @@
 > **Backend Developer** | 성능 최적화와 안정적인 시스템 구축에 관심이 많은 개발자입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/) 
-
----
-
-## 🎯 About Me
-
-> **보이지 않지만 체감할 수 있는 성능 개선**에 집중하는 백엔드 개발자입니다.
-
-- **주요 관심사**: API 성능 최적화, 데이터베이스 설계, 클라우드 인프라
-- **개발 철학**: 깔끔한 코드 작성과 팀원들과의 원활한 소통을 중시합니다
-- **목표**: 사용자 경험을 개선하는 견고한 백엔드 시스템을 구축하는 개발자
-
-### 🏆 Key Achievements
-- **🥇 AWS 역량강화캠프 경진대회 1위** (2024) - 생활용품 알림 서비스 개발
-- **7개 프로젝트 완주** - 기업 연계 3건, 해커톤 2건 포함
-- **팀 프로젝트 백엔드 개발** - 아키텍처 설계 및 인프라 구축 담당
+[![Gmail](https://img.shields.io/badge/-ybg6539@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ybg6539@gmail.com)
+[![Blog](https://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sean2337)
 
 ---
 
@@ -54,13 +41,6 @@
 - **담당**: REST API 설계, 사용자 인증 시스템, 상품 관리 기능
 - **협업**: 심스리얼리티와 4개월간 협업하여 실제 서비스 수준의 시스템 구축
 
-### **Busan.zip** - DIVE 2024 해커톤
-`Spring Boot` `Docker` `AWS` `2024.10`
-
-부산 관광/정착 정보 통합 서비스
-- **담당**: 백엔드 개발, Docker 기반 배포 자동화
-- **성과**: 24시간 내 확장 가능한 API 아키텍처 설계 완료
-
 ### **리뷰캔버스** - 기업 연계 프로젝트  
 `Spring Boot` `Redis` `MySQL` `2024.03-06`
 
@@ -68,25 +48,29 @@
 - **담당**: 리뷰 CRUD API, 평점 집계 로직, 캐싱 최적화
 - **성과**: Redis 캐싱 전략으로 API 응답 속도 개선
 
-<details>
-<summary><b>전체 프로젝트 목록 보기</b></summary>
+<br>
 
-| 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 링크 |
-|---------|------|------|------|----------|------|
-| **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, PostgreSQL | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
-| **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, Docker | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
-| **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda, Python | Private |
-| **귀위비** | 생활용품 알림 서비스 | 2024.06 | BE, Infra | Spring Boot, AWS Lambda | Private |
-| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, Redis | [GitHub](https://github.com/review-canvas/review-canvas-back) |
-| **AMS** | 학원 성적 관리 시스템 | 2023.03-07 | Full Stack | Spring Boot, Thymeleaf | [GitHub](https://github.com/Gyulguma/AMS) |
-| **GetIT** | 전자기기 추천 서비스 | 2022.03-08 | BE | Spring Boot | [GitHub](https://github.com/UMC-GetIT/GetIT-server) |
+<b><전체 프로젝트 목록></b>
 
-</details>
+| 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 발주처 | 링크 |
+|---------|------|------|------|----------|------------|------|
+| **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, PostgreSQL | 기업연계 | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
+| **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, Docker | DIVE 2024 해커톤 | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
+| **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda, Python | 개인 프로젝트 | Private |
+| **귀위비** | 생활용품 알림 서비스 | 2024.06 | BE, Infra | Spring Boot, AWS Lambda | AWS 역량강화캠프 해커톤 | Private |
+| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, Redis | 기업연계 | [GitHub](https://github.com/review-canvas/review-canvas-back) |
+| **AMS** | 학원 성적 관리 시스템 | 2023.03-07 | Full Stack | Spring Boot, Thymeleaf | 개인 프로젝트 | [GitHub](https://github.com/Gyulguma/AMS) |
+| **GetIT** | 전자기기 추천 서비스 | 2022.03-08 | BE | Spring Boot | UMC(대학연합동아리) | [GitHub](https://github.com/UMC-GetIT/GetIT-server) |
+
+
 
 ---
 
 ## 🛠 Technical Skills
 
+`Java` `Spring Boot` `AWS` `MySQL` `Redis` `Docker` `Git`
+
+<!--
 ### **Backend Development**
 - **Languages**: `Java`, `Python`
 - **Frameworks**: `Spring Boot`, `Spring Data JPA`, `Spring Security`
@@ -102,6 +86,7 @@
 - **IDEs**: `IntelliJ IDEA`, `Eclipse`
 - **Collaboration**: `Jira`, `Slack`, `Notion`
 - **Testing**: `JUnit`, `Mockito`
+-->
 
 ---
 
