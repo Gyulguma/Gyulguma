@@ -1,105 +1,119 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E8FFCE,100:ACFADF&height=300&section=header&text=Gyulguma's%20Github&desc=Welcome%20here%20👋&fontSize=70&animation=fadeIn&fontAlignY=40&descAlign=80)
+# 유병규 (Byeong-gyu Yoo)
+> **Backend Developer** | 성능 최적화와 안정적인 시스템 구축에 관심이 많은 개발자입니다.
 
-> 안녕하세요! 보이지 않지만 체감할 수 있는 성능을 개선하는 것에 매력을 느껴, 백엔드 개발자가 된 유병규라고 합니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/) 
 
-<br/>
-<br/>
+---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean2337&count_bg=%230B666A&title_bg=%23071952&icon=iconify.svg&icon_color=%23E7E7E7&title=vistor&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🎯 About Me
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/)
-![JoocyCool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyulguma&&show_icons=true&theme=solarized-light&rank_icon=github)
+> **보이지 않지만 체감할 수 있는 성능 개선**에 집중하는 백엔드 개발자입니다.
 
+- **주요 관심사**: API 성능 최적화, 데이터베이스 설계, 클라우드 인프라
+- **개발 철학**: 깔끔한 코드 작성과 팀원들과의 원활한 소통을 중시합니다
+- **목표**: 사용자 경험을 개선하는 견고한 백엔드 시스템을 구축하는 개발자
 
-<br/>
+### 🏆 Key Achievements
+- **🥇 AWS 역량강화캠프 경진대회 1위** (2024) - 생활용품 알림 서비스 개발
+- **7개 프로젝트 완주** - 기업 연계 3건, 해커톤 2건 포함
+- **팀 프로젝트 백엔드 개발** - 아키텍처 설계 및 인프라 구축 담당
 
-# 🚀 Career
-- **📗 UMC 2기 백엔드 트랙** <sub><sup>2022.03.07~2022.08.31</sup></sub>
-- **📘 삼성 청년 SW 아카데미 13기** <sub><sup>2025.01.07 ~ ing</sup></sub>
+---
 
-<br/>
+## 📚 Education & Experience
 
-# 🔥Project <!--([포트폴리오](https://cold-jade-789.notion.site/11b8ea6a2bdb80d79ff0c817c40498bf?pvs=74))-->
-| 프로젝트 명 | 프로젝트 소개 | 기간 | 역할 | 발주처 | GitHub 주소 |
-|-------------|---------------|------|------|--------|-------------|
-| 📘 메타버스 플랫폼 쇼핑몰 📘 | 메타버스 내 3D 가상 패션 서비스  | 2024.09 ~ 2024.12 | BE Developer, QA | 기업연계 | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
-| 🚛 Busan.zip 🚛 | 부산 관광 또는 정착에 관심이 있는 사용자를 위한 서비스 | 2024.10 ~ 2024.10 | BE Developer, Infra | DIVE 2024(부산시 산하공사 협의체) | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
-| 🚙 INFO.M 🚙 | 학교 정보 알리미 서비스 | 2024.07 ~ 2024.08 | BE Developer, Infra | 개인 프로젝트(5인) | GitHub<!--(https://github.com/MJU-Application/BE/branches/all)--> | 
-| ☔️ 귀위비 ☔️ | 생활 용품 교체 주기 알림 서비스, 귀차니즘을 위한 비서 | 2024.06 ~ 2024.06 | BE Developer, Infra | AWS 역량강화캠프 해커톤 | GitHub<!--(https://github.com/hongkikii/gwibi)--> |
-| 🚗 리뷰캔버스 🚗 | 서드 파티 리뷰 시스템 | 2024.03 ~ 2023.06 | BE Developer | 기업연계 | [GitHub](https://github.com/review-canvas/review-canvas-back) |
-| 📝 AMS 📝 | 학원 성적 관리 시스템 | 2023.03 ~ 2023.07 | FE Developer, BE Developer | 개인 프로젝트(2인) | [GitHub](https://github.com/Gyulguma/AMS?tab=readme-ov-file) |
-| 🛰️ GetIT 🛰️ | 전자기기별 특징을 쉽게 알려주며 추천해주는 전자기기 추천 서비스 앱 | 2022.03 ~ 2022.08 | BE Developer | UMC(대학연합동아리) | [GitHub](https://github.com/UMC-GetIT/GetIT-server?tab=readme-ov-file) |
+**삼성 청년 SW 아카데미 13기** `2025.01 ~ 현재`
+- 알고리즘, 자료구조, 프로젝트 실습 집중 교육
 
+**UMC 2기 백엔드 트랙 수료** `2022.03 ~ 2022.08`  
+- Spring Boot 기반 앱 서비스 개발 학습
 
-<br/>
+---
 
-# 🏆Award history
-🥇 **2024 AWS 역량강화캠프 경진대회 - 명지대학교 SW인재육성사업단** 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 귀위비 - [귀위비] 생활 용품 교체 주기 알림 서비스, 귀차니즘을 위한 비서
-<br/>
+## 🏆 Awards
 
+**2024 AWS 역량강화캠프 경진대회 - 대상**
+- 주관: 명지대학교 SW인재육성사업단
+- 프로젝트: 귀위비 (생활용품 교체주기 알림 서비스)
 
-<br/>
+---
 
+## 🚀 Featured Projects
 
-# ✍ Used Languages
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" />
+### **귀위비** - AWS 경진대회 1위 수상작
+`Spring Boot` `AWS RDS` `AWS Lambda` `AWS Bedrock` `2024.06`
 
-<br/>
+생활용품 교체주기 알림 서비스로 **2일 해커톤에서 완성도 높은 MVP** 개발
+- **담당**: 백엔드 API 설계, 다양한 루트의 생활용품 자동 등록 시스템, AWS 서버리스 아키텍처
+- **성과**: 비용 효율적인 Lambda 스케줄링으로 대용량 등록 처리
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyulguma&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### **메타버스 플랫폰 쇼핑몰** - 기업 연계 프로젝트
+`Spring Boot` `MySQL` `AWS` `JPA` `2024.09-12`
 
-Java를 위주로 공부하고 있어요<br/>
-위 표는 제가 GitHub에 업로드한 언어들의 분포를 나타내요.
+3D 가상공간 내 패션 커머스 키오스크 시스템
+- **담당**: REST API 설계, 사용자 인증 시스템, 상품 관리 기능
+- **협업**: 심스리얼리티와 4개월간 협업하여 실제 서비스 수준의 시스템 구축
 
-<br/>
+### **Busan.zip** - DIVE 2024 해커톤
+`Spring Boot` `Docker` `AWS` `2024.10`
 
+부산 관광/정착 정보 통합 서비스
+- **담당**: 백엔드 개발, Docker 기반 배포 자동화
+- **성과**: 24시간 내 확장 가능한 API 아키텍처 설계 완료
 
-# 🔥 My Skill
+### **리뷰캔버스** - 기업 연계 프로젝트  
+`Spring Boot` `Redis` `MySQL` `2024.03-06`
 
-## BE-Skill
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+서드파티 리뷰 시스템 플랫폼
+- **담당**: 리뷰 CRUD API, 평점 집계 로직, 캐싱 최적화
+- **성과**: Redis 캐싱 전략으로 API 응답 속도 개선
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+<details>
+<summary><b>전체 프로젝트 목록 보기</b></summary>
 
-현재 백엔드 분야에 집중하며 관련 기술들을 배우고 있어요 💡<br/>
-자주 사용하는 프레임워크로는 SpringBoot를 사용해요 🔧<br/>
+| 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 링크 |
+|---------|------|------|------|----------|------|
+| **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, PostgreSQL | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
+| **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, Docker | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
+| **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda, Python | Private |
+| **귀위비** | 생활용품 알림 서비스 | 2024.06 | BE, Infra | Spring Boot, AWS Lambda | Private |
+| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, Redis | [GitHub](https://github.com/review-canvas/review-canvas-back) |
+| **AMS** | 학원 성적 관리 시스템 | 2023.03-07 | Full Stack | Spring Boot, Thymeleaf | [GitHub](https://github.com/Gyulguma/AMS) |
+| **GetIT** | 전자기기 추천 서비스 | 2022.03-08 | BE | Spring Boot | [GitHub](https://github.com/UMC-GetIT/GetIT-server) |
 
-## OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</details>
 
-## ETC
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+---
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-협업할 때 다른 사람들을 이해하기 위해 다른 분야의 기술들도 공부하고 있어요 📚
+## 🛠 Technical Skills
 
-<br/>
+### **Backend Development**
+- **Languages**: `Java`, `Python`
+- **Frameworks**: `Spring Boot`, `Spring Data JPA`, `Spring Security`
+- **Databases**: `MySQL`, `MariaDB`, `Redis`
+- **Build Tools**: `Gradle`, `Maven`
 
-# 💻 My IDEs/Editors
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+### **Cloud & Infrastructure**
+- **AWS**: `EC2`, `S3`, `Lambda`, `RDS`, `Bedrock`
+- **Containerization**: `Docker`
+- **Version Control**: `Git`, `GitHub`
 
+### **Development Tools**
+- **IDEs**: `IntelliJ IDEA`, `Eclipse`
+- **Collaboration**: `Jira`, `Slack`, `Notion`
+- **Testing**: `JUnit`, `Mockito`
 
-저는 보통 백엔드 개발에 익숙한 IntelliJ IDEA를 사용하고 있고, <br/>
-다른 언어나 분야를 개발할 때는 위에 언급된 IDE/에디터들을 사용해요 💻<br/>
-협업할 때는 Git을 사용해요 🤝
+---
 
-<br/>
-<!--
-# 🤔 My SNS
- <a href="https://velog.io/@sean2337" target="Velog_sean2337"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/joosi_cool?igshid=MmIzYWVlNDQ5Yg==)](https://instagram.com/joosi_cool?igshid=MmIzYWVlNDQ5Yg==)
- -->
+## 📊 GitHub Stats
+
+![Gyulguma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyulguma&show_icons=true&theme=solarized-light&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyulguma&layout=compact&theme=solarized-light)
+
+---
+
+<div align="center">
+
+*"코드로 문제를 해결하고, 사용자에게 가치를 전달하는 개발자가 되겠습니다."*
+
+</div>
