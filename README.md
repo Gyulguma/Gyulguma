@@ -3,7 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/) 
 [![Gmail](https://img.shields.io/badge/-ybg6539@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ybg6539@gmail.com)
-[![Blog](https://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sean2337)
+<!--[![Blog](https://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sean2337)-->
+
 
 ---
 
