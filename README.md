@@ -39,7 +39,7 @@
 | **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, AWS, MySQL, Python | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
 | **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda | Private |
 | **귀위비** | 생활용품 알림 서비스 | 2024.06 | BE, Infra | Spring Boot, AWS Bedrock, AWS Lambda | Private |
-| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, MySQL, Redis | [GitHub](https://github.com/review-canvas/review-canvas-back) |
+| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, MySQL | [GitHub](https://github.com/review-canvas/review-canvas-back) |
 | **AMS** | 학원 성적 관리 시스템 | 2023.03-07 | Full Stack | Spring Boot, React, Tailwind | [GitHub](https://github.com/Gyulguma/AMS) |
 | **GetIT** | 전자기기 추천 서비스 | 2022.03-08 | BE | Spring Boot, AWS, Redis | [GitHub](https://github.com/UMC-GetIT/GetIT-server) |
 
