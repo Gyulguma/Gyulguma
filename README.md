@@ -3,7 +3,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/) 
 [![Gmail](https://img.shields.io/badge/-ybg6539@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ybg6539@gmail.com)
-<!--[![Blog](https://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sean2337)-->
 
 
 ---
@@ -35,11 +34,11 @@
 
 | 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 링크 |
 |---------|------|------|------|----------|------|
-| **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, MariaDB, AWS | [GitHub](https://github.com/MJU-TeamProject2/MJU-BE) |
+| **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, MariaDB, AWS | Private |
 | **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, AWS, MySQL, Python | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
 | **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda | Private |
 | **귀위비** | 생활용품 알림 서비스 | 2024.06 | BE, Infra | Spring Boot, AWS Bedrock, AWS Lambda | Private |
-| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, MySQL | [GitHub](https://github.com/review-canvas/review-canvas-back) |
+| **리뷰캔버스** | 서드파티 리뷰 시스템 | 2024.03-06 | BE | Spring Boot, MySQL | Private |
 | **AMS** | 학원 성적 관리 시스템 | 2023.03-07 | Full Stack | Spring Boot, React, Tailwind | [GitHub](https://github.com/Gyulguma/AMS) |
 | **GetIT** | 전자기기 추천 서비스 | 2022.03-08 | BE | Spring Boot, AWS, Redis | [GitHub](https://github.com/UMC-GetIT/GetIT-server) |
 
@@ -48,8 +47,18 @@
 ---
 
 ## 🛠 Tech Stack
+**Backend**       : `Java` `Spring Boot` `Spring Security` `JPA` `MSA` <br>
+**Infra & Cloud**	: `AWS` `Docker` `Kafka` `Jenkins` `Nginx` <br>
+**Database**	    : `MySQL` `Redis` <br>
+**Collaboration**	: `Git` `Jira` `Slack` <br>
 
-`Java` `Spring Boot` `AWS` `MySQL` `Redis` `Docker` `Git`
+---
+
+## 🏆 Awards
+
+- AWS 역량강화캠프 해커톤 1위 (2025.06)
+
+- ZEPETO World Jam Fall 2023 'Best Technical Implementation' 수상 (2023.11)
 
 ---
 
@@ -68,6 +77,6 @@
 
 <div align="center">
 
-*"코드로 문제를 해결하고, 사용자에게 가치를 전달하는 개발자가 되겠습니다."*
+*"기술로 문제를 해결하고, 사용자에게 가치를 전달하는 개발자가 되겠습니다."*
 
 </div>
