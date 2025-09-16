@@ -9,6 +9,12 @@
 
 ## 🚀 Featured Projects
 
+### 메아리 - MSA 기반 실시간 교육 플랫폼
+`Spring Boot` `MSA` `Docker` `Kafka` `Jenkins` `2023.07-08`
+
+5주간 진행한 교육 기부 플랫폼으로, 백엔드 아키텍처 설계 및 인프라 구축을 총괄
+- **성과**: 모놀리식 구조를 MSA로 전환하여 서비스 안정성 및 확장성 확보, CI/CD 파이프라인 구축으로 배포 시간 단축
+
 ### **귀위비** - AWS 경진대회 1위 수상작
 `Spring Boot` `AWS RDS` `AWS Lambda` `AWS Bedrock` `2024.06`
 
