@@ -10,9 +10,9 @@
 ## 🚀 Featured Projects
 
 ### 메아리 - MSA 기반 실시간 교육 플랫폼
-`Spring Boot` `MSA` `Docker` `Kafka` `Jenkins` `2023.07-08`
+`Spring Boot` `MSA` `Docker` `Kafka` `Jenkins` `2025.07-08`
 
-5주간 진행한 교육 기부 플랫폼으로, 백엔드 아키텍처 설계 및 인프라 구축을 총괄
+SSAFY에서 5주간 진행한 교육 기부 플랫폼으로, 백엔드 아키텍처 설계 및 인프라 구축을 총괄
 - **성과**: 모놀리식 구조를 MSA로 전환하여 서비스 안정성 및 확장성 확보, CI/CD 파이프라인 구축으로 배포 시간 단축
 
 ### **귀위비** - AWS 경진대회 1위 수상작
@@ -40,6 +40,8 @@
 
 | 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 링크 |
 |---------|------|------|------|----------|------|
+| **메아리** | 교육 기부 플랫폼 | 2025.07-08 | BE, Infra | Spring Boot, AWS EC2, AWS S3, MySQL, Redis, Kafka, Docker, Jenkins | Private|
+| **Trippy** | 여행 플래너 서비스 | 2025.05 | Full Stack | Spring Boot, MySQL, Vue.js | Private |
 | **메타버스 쇼핑몰** | 3D 가상 패션 서비스 | 2024.09-12 | BE, QA | Spring Boot, MariaDB, AWS | Private |
 | **Busan.zip** | 부산 관광/정착 서비스 | 2024.10 | BE, Infra | Spring Boot, AWS, MySQL, Python | [GitHub](https://github.com/orgs/dive-2024-busanzip/repositories) |
 | **INFO.M** | 학교 정보 알리미 | 2024.07-08 | BE, Infra | AWS Lambda | Private |
@@ -70,7 +72,7 @@
 
 ## 📚 Current
 
-**삼성 청년 SW 아카데미 13기** `2025.01 ~ 현재`  
+**삼성 청년 SW AI 아카데미(SSAFY) 13기** `2025.01 ~ 현재`  
 **UMC 2기 백엔드 트랙 수료** `2022.03 ~ 2022.08`
 
 ---
