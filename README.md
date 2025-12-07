@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybg6539)](https://solved.ac/ybg6539/) 
 [![Gmail](https://img.shields.io/badge/-ybg6539@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ybg6539@gmail.com)
-
+<br> [코테 연습](https://github.com/Gyulguma/Coding-Drawer)
 
 ---
 
